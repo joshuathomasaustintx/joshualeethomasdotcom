@@ -938,6 +938,10 @@ body {
 
       }
 
+      .headline {
+        display: none;
+      }
+
       .content.nav-container {
         display: flex;
         padding-right: 0px;
